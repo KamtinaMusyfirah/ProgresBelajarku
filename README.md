@@ -1,2 +1,10 @@
-# ProgresBelajarku
+ProgresBelajarku
+==
 Repository ini Berisi Pengalaman Belajarku di Dicoding
+--
+14 Juni 2021
+Belajar kelas  Belajar Dasar Git dengan GitHub (Progres 50%)
+
+ - Belajar tentang apa itu Java dan alasan menggunakannya.
+
+ - Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
