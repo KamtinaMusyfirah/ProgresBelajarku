@@ -2,9 +2,13 @@ ProgresBelajarku
 ==
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 --
-14 Juni 2021
-Belajar kelas  Belajar Dasar Git dengan GitHub (Progres 50%)
+27 Agustus 2021
+Belajar kelas  Dasar Git dengan GitHub (Progres 30%)
+ - Belajar tentang apa itu Git
+ - Belajar tools yang dapat digunakan untuk memudahkan kolaborasi
 
- - Belajar tentang apa itu Java dan alasan menggunakannya.
-
- - Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+28 Agustus 2021
+Belajar kelas Dasar Git dengan GitHub (Progres 56%)
+  - Belajar fitur - fitur git
+  - Latihan menggunakan github
+  - Belajar menggunakan studi kasus
